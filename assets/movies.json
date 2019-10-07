@@ -1,0 +1,59 @@
+{
+    "movies": [
+     {
+      "name": "JOKER",
+      "actors": [
+        {
+          "name1": "Joaquin Phoenix"
+        },
+        {
+          "name2": "Robert De Niro"
+        },
+        {
+         "name3": "Zazie Beetz"
+        }
+        ],
+      "category": [
+        {
+         "genre1": "Crime"
+        },
+        {
+         "genre2": "Drama"
+        },
+        {
+         "genre3": "Thriller"
+        }
+      ],
+      "timeM": "121",
+      "text": "A gritty character study of Arthur Fleck, a man disregarded by society.",
+      "image": "image url"
+    },
+    {
+        "name": "JOKER 2",
+        "actors": [
+          {
+            "name1": "Joaquin Phoenix"
+          },
+          {
+            "name2": "Robert De Niro"
+          },
+          {
+           "name3": "Zazie Beetz"
+          }
+          ],
+        "category": [
+          {
+           "genre1": "Crime"
+          },
+          {
+           "genre2": "Drama"
+          },
+          {
+           "genre3": "Thriller"
+          }
+        ],
+        "timeM": "121",
+        "text": "A gritty character study of Arthur Fleck, a man disregarded by society.",
+        "image": "image url"
+      }]
+   }
